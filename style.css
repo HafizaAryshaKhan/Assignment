@@ -1,0 +1,25 @@
+
+ul, li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+
+}
+
+.topbar{
+    background-color: #316dc3;
+}
+.million{
+    font-size: small;
+}
+
+
+.r1, .r2, .r3, .r4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#316dc3 ;
+    width: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
